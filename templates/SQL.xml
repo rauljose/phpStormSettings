@@ -1,0 +1,7 @@
+<templateSet group="SQL">
+  <template name="CREATE DATABASE" value="CREATE DATABASE db DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;&#10;CREATE USER 'user'@'localhost' IDENTIFIED BY 'teisha' PASSWORD EXPIRE NEVER;&#10;GRANT ALL ON db.* TO 'user'@'localhost';" description="CREATE DATABASE" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>

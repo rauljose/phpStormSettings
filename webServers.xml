@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1939edd9-8bdc-4ba4-b924-fc2deaf25d84" name="ia" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="2eec9a9c-73ef-484e-aaf2-eda2f0c76c5e" name="juntas_pueden" url="http://localhost/juntas_pueden">
+        <fileTransfer port="0" mountedRoot="D:\Apache2.4.33\htdocs\juntas_pueden" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
