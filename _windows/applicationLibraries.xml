@@ -4,6 +4,159 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="Generated files" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/iaNumber.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_completo.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_completo.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_resumen.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_resumen.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/prueba_inscripcion.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/cliente_carritos_jqGrid.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/cliente_directorio_jqGrid.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/prospecto_directorio_jqGrid.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/recomendacion_jqGrid.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/subGridColModel.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/all.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/all.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/brands.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/brands.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/conflict-detection.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/conflict-detection.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/fontawesome.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/regular.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/regular.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/solid.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/solid.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/v4-shims.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/v4-shims.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/js/base.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaDater.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaFormulario/iaFormulario.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaJqGrid.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaTableIt.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/ia_dialog.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iac.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iacJqGridV.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/micuenta_page.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/age-verification/js/age-verification.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/age-verification/js/age-verification.round_ori.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/autoNumeric.1.9.2.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/clipboardjs/clipboard.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/datalist-polyfill-master/commitlint.config.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/datalist-polyfill-master/datalist-polyfill.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/dialog-polyfill/dist/dialog-polyfill.esm.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/dialog-polyfill/dist/dialog-polyfill.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/image-map-resizer/gruntfile.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/image-map-resizer/js/imageMapResizer.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jqGrid/dist/modules/grid.filter.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-bonsai/jquery.bonsai.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-ui-multiselect-widget/src/jquery.multiselect.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/gulpfile.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/jquery.lazy.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/jquery.lazy.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/jquery.lazy.plugins.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/jquery.lazy.plugins.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.ajax.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.ajax.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.av.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.av.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.iframe.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.iframe.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.noop.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.noop.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.picture.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.script.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.script.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.vimeo.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.vimeo.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.youtube.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.youtube.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/dist/password.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/distOLD/password.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/password.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.core.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quilljs-textarea/quill-textarea.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/iaNumber.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_completo.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_completo.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_resumen.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_resumen.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/prueba_inscripcion.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/cliente_carritos_jqGrid.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/cliente_directorio_jqGrid.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/prospecto_directorio_jqGrid.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/recomendacion_jqGrid.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/subGridColModel.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/all.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/all.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/brands.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/brands.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/conflict-detection.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/conflict-detection.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/fontawesome.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/regular.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/regular.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/solid.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/solid.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/v4-shims.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/v4-shims.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/js/base.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaDater.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaFormulario/iaFormulario.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaJqGrid.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaTableIt.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/ia_dialog.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iac.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iacJqGridV.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/micuenta_page.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/age-verification/js/age-verification.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/age-verification/js/age-verification.round_ori.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/autoNumeric.1.9.2.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/clipboardjs/clipboard.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/datalist-polyfill-master/commitlint.config.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/datalist-polyfill-master/datalist-polyfill.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/dialog-polyfill/dist/dialog-polyfill.esm.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/dialog-polyfill/dist/dialog-polyfill.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/image-map-resizer/gruntfile.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/image-map-resizer/js/imageMapResizer.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jqGrid/dist/modules/grid.filter.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-bonsai/jquery.bonsai.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-ui-multiselect-widget/src/jquery.multiselect.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/gulpfile.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/jquery.lazy.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/jquery.lazy.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/jquery.lazy.plugins.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/jquery.lazy.plugins.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.ajax.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.ajax.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.av.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.av.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.iframe.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.iframe.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.noop.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.noop.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.picture.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.script.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.script.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.vimeo.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.vimeo.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.youtube.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/plugins/jquery.lazy.youtube.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/dist/password.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/distOLD/password.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/password.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.core.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quilljs-textarea/quill-textarea.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="hammer" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -43,6 +196,14 @@
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
       </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="JqueryUI" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery UI" />
+        <option name="frameworkVersion" value="12.2.1" />
+      </properties>
+      <CLASSES />
       <SOURCES />
     </library>
   </component>
