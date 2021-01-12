@@ -5,11 +5,6 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="D:\php-7.2.7\php.exe" id="e5b7a14a-11ff-4128-b4f6-047189377f69" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.2">
