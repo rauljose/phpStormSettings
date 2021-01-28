@@ -51,6 +51,7 @@
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/dialog-polyfill/dist/dialog-polyfill.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/image-map-resizer/gruntfile.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/image-map-resizer/js/imageMapResizer.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jQuery.print.min.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jqGrid/dist/modules/grid.filter.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-bonsai/jquery.bonsai.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-ui-multiselect-widget/src/jquery.multiselect.min.js" />
@@ -127,6 +128,7 @@
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/dialog-polyfill/dist/dialog-polyfill.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/image-map-resizer/gruntfile.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/image-map-resizer/js/imageMapResizer.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jQuery.print.min.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jqGrid/dist/modules/grid.filter.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-bonsai/jquery.bonsai.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-ui-multiselect-widget/src/jquery.multiselect.min.js" />
