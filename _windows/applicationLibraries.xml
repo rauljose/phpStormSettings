@@ -7,15 +7,30 @@
     <library name="Generated files" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/ajaxExecutor.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaDater.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaFiller.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaFormulario/iaFormulario.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaJqGrid.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaObjectUtil.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaPercenter.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaTableIt.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaTableIt.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaValuesIn.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/ia_dialog.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/ia_dialog.min.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iac.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iacJqGridV.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/ialoco.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/ialoco.min.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/logerr.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/logerr.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/login_page.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/menu.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/menu.min.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/micuenta_page.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/numit.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/populateForm.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/iaNumber.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_completo.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_completo.min.min.js" />
@@ -92,15 +107,30 @@
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/ajaxExecutor.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaDater.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaFiller.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaFormulario/iaFormulario.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaJqGrid.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaObjectUtil.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaPercenter.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaTableIt.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaTableIt.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iaValuesIn.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/ia_dialog.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/ia_dialog.min.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iac.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/iacJqGridV.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/ialoco.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/ialoco.min.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/logerr.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/logerr.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/login_page.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/menu.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/menu.min.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/micuenta_page.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/numit.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/alla/js_ia/populateForm.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/iaNumber.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_completo.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/js/productos_lista_completo.min.min.js" />
