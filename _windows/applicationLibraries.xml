@@ -53,6 +53,7 @@
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/image-map-resizer/js/imageMapResizer.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jqGrid/dist/modules/grid.filter.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-bonsai/jquery.bonsai.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-typeahead/jquery.typeahead.min.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-ui-multiselect-widget/src/jquery.multiselect.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/gulpfile.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/jquery.lazy.min.js" />
@@ -136,6 +137,7 @@
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/image-map-resizer/js/imageMapResizer.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jqGrid/dist/modules/grid.filter.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-bonsai/jquery.bonsai.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-typeahead/jquery.typeahead.min.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery-ui-multiselect-widget/src/jquery.multiselect.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/gulpfile.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/jquery.lazy-master/jquery.lazy.min.js" />
