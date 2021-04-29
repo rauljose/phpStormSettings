@@ -18,6 +18,7 @@
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/prospecto_directorio_jqGrid.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/recomendacion_jqGrid.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/subGridColModel.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/cached/buscadorvars.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/all.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/all.min.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/brands.min.js" />
@@ -102,6 +103,7 @@
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/prospecto_directorio_jqGrid.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/recomendacion_jqGrid.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/subGridColModel.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/cached/buscadorvars.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/all.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/all.min.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/brands.min.js" />
