@@ -82,6 +82,9 @@
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.core.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quilljs-textarea/quill-textarea.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/splide/dist/js/splide.esm.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/splide/dist/js/splide.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/splide/dist/js/splide.min.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/node_modules/dlv/dist/dlv.es.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/node_modules/dlv/dist/dlv.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/node_modules/dlv/dist/dlv.umd.min.js" />
@@ -167,6 +170,9 @@
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.core.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quilljs-textarea/quill-textarea.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/splide/dist/js/splide.esm.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/splide/dist/js/splide.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/splide/dist/js/splide.min.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/node_modules/dlv/dist/dlv.es.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/node_modules/dlv/dist/dlv.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/node_modules/dlv/dist/dlv.umd.min.js" />
