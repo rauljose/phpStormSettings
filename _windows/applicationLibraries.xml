@@ -33,7 +33,6 @@
           <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/v4-shims.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/v4-shims.min.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/js/base.min.js" />
-          <item url="file://D:/Apache2.4.33/htdocs/piramide/js/lh.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/ajaxExecutor.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaDater.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaFormulario/iaFormulario.min.js" />
@@ -72,6 +71,7 @@
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/dist/password.min.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/distOLD/password.min.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/password.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill-image-uploader/dist/quill.imageUploader.min.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.core.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quilljs-textarea/quill-textarea.min.js" />
@@ -114,7 +114,6 @@
         <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/v4-shims.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/css/fontawesome-free-5.12.0-web/js/v4-shims.min.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/js/base.min.js" />
-        <root url="file://D:/Apache2.4.33/htdocs/piramide/js/lh.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/ajaxExecutor.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaDater.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/js_ia/iaFormulario/iaFormulario.min.js" />
@@ -153,6 +152,7 @@
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/dist/password.min.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/distOLD/password.min.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/password-strength-meter-master/password.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill-image-uploader/dist/quill.imageUploader.min.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.core.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quill/quill.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/jslib/quilljs-textarea/quill-textarea.min.js" />
