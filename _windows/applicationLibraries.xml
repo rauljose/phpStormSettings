@@ -16,6 +16,7 @@
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/cliente_carritos_jqGrid.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/cliente_directorio_jqGrid.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/prospecto_directorio_jqGrid.min.js" />
+          <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/prospecto_inscribe_jqGrid.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/recomendacion_jqGrid.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/subGridColModel.min.js" />
           <item url="file://D:/Apache2.4.33/htdocs/piramide/cached/buscadorvars.min.js" />
@@ -97,6 +98,7 @@
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/cliente_carritos_jqGrid.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/cliente_directorio_jqGrid.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/prospecto_directorio_jqGrid.min.js" />
+        <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/prospecto_inscribe_jqGrid.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/recomendacion_jqGrid.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/backoffice/jsPg/subGridColModel.min.js" />
         <root url="file://D:/Apache2.4.33/htdocs/piramide/cached/buscadorvars.min.js" />
